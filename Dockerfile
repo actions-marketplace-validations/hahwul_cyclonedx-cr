@@ -1,5 +1,5 @@
 ##= BUILDER =##
-FROM crystallang/crystal:1.22.0 AS builder
+FROM crystallang/crystal:1.22.1 AS builder
 
 WORKDIR /cyclonedx-cr
 
